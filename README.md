@@ -1,6 +1,3 @@
-# SOEN342
-SOEN342 PROJECT
-
 # Description 
 
 
@@ -9,4 +6,7 @@ SOEN342 PROJECT
 
 # Core Features
 
-#Team Members
+
+# team members
+
+Lyes Kara - 40107680
