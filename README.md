@@ -1,11 +1,11 @@
 # Team Members
 
-Lyes Kara(lyeskara) - 40107680
-Zachariya Javeri(zachariyaJaveri) - 40130266
-Jonathon Pauze(BigSaladMan) - 40177730
-Brahim Hamid Oudjana(Yassine-Ouali) - 40127714
-Hassan Moharram(DobDub) - 40158285
-Yassine Ouali(Brahim-0) - 40107680
+* Lyes Kara(lyeskara) - 40107680
+* Zachariya Javeri(zachariyaJaveri) - 40130266
+* Jonathon Pauze(BigSaladMan) - 40177730
+* Brahim Hamid Oudjana(Yassine-Ouali) - 40127714
+* Hassan Moharram(DobDub) - 40158285
+* Yassine Ouali(Brahim-0) - 40107680
 
 # Description 
 
